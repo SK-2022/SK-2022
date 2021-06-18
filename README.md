@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SK-2022.
+- 👋 Hi, I’m Mika.
 - 👀 I’m interested in learning how to become a fullstack developer focused on deploying web-based apps using MERN stack.
 - 🌱 I’m currently learning the basics of programming and working on basic projects using HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate around October 2021 when I feel I've learnt enough on my own to work with others.
