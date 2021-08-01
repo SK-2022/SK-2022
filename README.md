@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mika.
-- 👀 I’m interested in learning how to become a fullstack developer focused on deploying web-based apps using MERN stack.
-- 🌱 I’m currently learning the basics of programming and working on basic projects using HTML, CSS and Javascript.
+- 👀 I’m interested in learning how to become a Fullstack Ruby on Rails developer.
+- 🌱 I’m currently learning the basics of programming and working on basic projects using HTML, CSS and Javascript.I will start using Ruby in August.
 - 💞️ I’m looking to collaborate around October 2021 when I feel I've learnt enough on my own to work with others.
 - 📫 You can contact me on my email mikachiusiwa@gmail.com
 - Started 100 days of Code Challenge on June 25th 2021! It's pretty hard but I won't give up until I have a 100day streak.
