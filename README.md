@@ -1,4 +1,4 @@
-Hi, I’m Mika and I’m learning software development.
+Hi, I’m Mika and I’m a Software Engineer in Japan.
 Specific technologies/concepts I'm learning and/or interesting in using within 2022 are:
 
 -Javascript, HTML/CSS, React.js, MongoDB, Ruby on Rails, CI/CD, AWS, Docker, Node.js, Express.js, and so much more.
