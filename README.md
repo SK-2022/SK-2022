@@ -1,4 +1,4 @@
-Hi, I’m Mika and I love IT.
+Hi, I’m Mika and I love to play with tech.
 
 
 I hope to code my very own learning blog in 2024 to post interesting things I learn. Thanks for reading.
